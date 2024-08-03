@@ -32,7 +32,7 @@ The HR Data Analytics project uses Power BI to visualize and analyze HR data. Th
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/hr-data-analytics.git
+    git clone https://github.com/MRamya-sri/HR-Data-Analytics.git
     ```
 2. Navigate to the project directory:
     ```bash
